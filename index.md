@@ -10,6 +10,6 @@ title: الخبّاش — المعلومات القانونية
 - [شروط الاستخدام]({{ '/terms/' | relative_url }})
 - [حذف الحساب والبيانات]({{ '/delete-account/' | relative_url }})
 - [من نحن]({{ '/about/' | relative_url }})
-للتواصل: slimenovastudio@gmail.com
 
+للتواصل: slimenovastudio@gmail.com
 </div>
